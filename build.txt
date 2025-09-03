@@ -1,0 +1,4 @@
+displayName = Reboot Mod: Calamity Compatibility Patch
+author = Prisma
+modReferences = RebootVan, CalamityMod 
+version = 1
